@@ -26,9 +26,10 @@ y0 = ymax - L*np.cos(r[0])
 
 fig, ax = plt.subplots()
 ax.set_aspect('equal')
-plt.ylim([-0.25,3.05])
-plt.xlim([-1.65,1.65])
+plt.ylim([-0.25, 3.05])
+plt.xlim([-1.65, 1.65])
 plt.grid()
+plt.title("Pêndulo simples sem atrito")
 
 xx_chao = [-1.65, 1.65, 1.65,-1.65]
 yy_chao = [0, 0, -0.25, -0.25]
