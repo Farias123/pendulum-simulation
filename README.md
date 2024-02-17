@@ -1,3 +1,10 @@
+[simple_pendulum_no_friction.webm](https://github.com/Farias123/pendulum-simulation/assets/115378746/c23df523-76f4-4789-9286-75f69931df52)
+
+[simple_pendulum.webm](https://github.com/Farias123/pendulum-simulation/assets/115378746/9d6b0563-52aa-4887-9df1-842d517bbafd)
+
+[double_pendulum.webm](https://github.com/Farias123/pendulum-simulation/assets/115378746/636f372c-2bd7-4be6-a780-5aeeaf3b7a60)
+
+
 # pendulum-simulation
 
 -- PT-BR --
